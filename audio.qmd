@@ -2,4 +2,4 @@
 title: "Resúmenes de audio en 5 minutos"
 ---
 
-Aquí subirás audios breves por tema.
+Aquí subiré audios breves por tema, no más de 5 minutos.

@@ -4,7 +4,7 @@
     "href": "audio.html",
     "title": "Resúmenes de audio en 5 minutos",
     "section": "",
-    "text": "Aquí subirás audios breves por tema."
+    "text": "Aquí subiré audios breves por tema, no más de 5 minutos."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,14 @@
     "href": "descripcion.html",
     "title": "Descripción del curso",
     "section": "",
-    "text": "Aquí irá la descripción del curso (objetivos, metodología, evaluación, bibliografía)."
+    "text": "La Epidemiología constituye el marco conceptual y metodológico fundamental para comprender los procesos de salud y enfermedad en poblaciones, así como para sustentar la toma de decisiones clínicas y sanitarias basadas en evidencia.\nEste curso está orientado a estudiantes de IV año de Medicina y busca integrar los principios clásicos de la epidemiología con su aplicación práctica en el ejercicio clínico, la gestión sanitaria y la salud pública. Se abordarán los conceptos fundamentales de frecuencia y asociación, el análisis crítico de estudios epidemiológicos, el diseño de investigaciones y la interpretación de evidencia científica.\nEl enfoque del curso combina fundamentos teóricos con talleres prácticos orientados al análisis de datos, la interpretación de literatura biomédica y la evaluación de intervenciones en salud.\nSe espera que el estudiante desarrolle competencias para:\n\nComprender y aplicar medidas de ocurrencia y asociación.\nInterpretar estudios observacionales y experimentales.\nAnalizar críticamente la evidencia científica.\nUtilizar herramientas básicas de análisis epidemiológico.\nIntegrar la epidemiología en la toma de decisiones clínicas y de salud pública.\n\nLa evaluación del curso considera quizzes preclase optativos, sesiones expositivas, talleres aplicados y evaluaciones formales de selección múltiple.\nQue sea un estupendo curso!"
+  },
+  {
+    "objectID": "descripcion.html#descripción-del-curso",
+    "href": "descripcion.html#descripción-del-curso",
+    "title": "Descripción del curso",
+    "section": "",
+    "text": "La Epidemiología constituye el marco conceptual y metodológico fundamental para comprender los procesos de salud y enfermedad en poblaciones, así como para sustentar la toma de decisiones clínicas y sanitarias basadas en evidencia.\nEste curso está orientado a estudiantes de IV año de Medicina y busca integrar los principios clásicos de la epidemiología con su aplicación práctica en el ejercicio clínico, la gestión sanitaria y la salud pública. Se abordarán los conceptos fundamentales de frecuencia y asociación, el análisis crítico de estudios epidemiológicos, el diseño de investigaciones y la interpretación de evidencia científica.\nEl enfoque del curso combina fundamentos teóricos con talleres prácticos orientados al análisis de datos, la interpretación de literatura biomédica y la evaluación de intervenciones en salud.\nSe espera que el estudiante desarrolle competencias para:\n\nComprender y aplicar medidas de ocurrencia y asociación.\nInterpretar estudios observacionales y experimentales.\nAnalizar críticamente la evidencia científica.\nUtilizar herramientas básicas de análisis epidemiológico.\nIntegrar la epidemiología en la toma de decisiones clínicas y de salud pública.\n\nLa evaluación del curso considera quizzes preclase optativos, sesiones expositivas, talleres aplicados y evaluaciones formales de selección múltiple.\nQue sea un estupendo curso!"
   },
   {
     "objectID": "clases.html",
@@ -46,7 +53,28 @@
     "href": "ejercicios.html",
     "title": "Ejercicios por una décima",
     "section": "",
-    "text": "Aquí subirás ejercicios cortos (0.1) con pauta o instrucciones de entrega."
+    "text": "Los quizzes se habilitan el día anterior a la clase desde las 06:00 y permanecen disponibles hasta las 23:59 (00:00) del mismo día anterior.\n\nEjemplo: si la clase es el martes, el quiz estará disponible desde lunes 06:00 hasta lunes 23:59."
+  },
+  {
+    "objectID": "ejercicios.html#regla-general-de-disponibilidad",
+    "href": "ejercicios.html#regla-general-de-disponibilidad",
+    "title": "Ejercicios por una décima",
+    "section": "",
+    "text": "Los quizzes se habilitan el día anterior a la clase desde las 06:00 y permanecen disponibles hasta las 23:59 (00:00) del mismo día anterior.\n\nEjemplo: si la clase es el martes, el quiz estará disponible desde lunes 06:00 hasta lunes 23:59."
+  },
+  {
+    "objectID": "ejercicios.html#quiz-activo",
+    "href": "ejercicios.html#quiz-activo",
+    "title": "Ejercicios por una décima",
+    "section": "Quiz activo",
+    "text": "Quiz activo\n\nQuiz 1 — Semana 1\n📅 Clase: 10-03-2026\n🕒 Disponible: 09-03-2026 06:00 → 09-03-2026 23:59\n💯 Puntaje: 0.1\n📍 Plataforma: Google Classroom\nContenidos evaluados - Concepto de epidemiología - Campo de acción de la disciplina - Historia y usos de la epidemiología - Aplicación en clínica y salud pública\nIngresar al Quiz 1 en Google Classroom"
+  },
+  {
+    "objectID": "ejercicios.html#historial-de-quizzes",
+    "href": "ejercicios.html#historial-de-quizzes",
+    "title": "Ejercicios por una décima",
+    "section": "Historial de quizzes",
+    "text": "Historial de quizzes\n\n\n\nSemana\nQuiz\nClase\nDisponible (día anterior)\nLink\n\n\n\n\n1\nQuiz 1\n10-03-2026\n09-03-2026 06:00–23:59\nAbrir"
   },
   {
     "objectID": "apuntes.html",

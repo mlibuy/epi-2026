@@ -2,4 +2,22 @@
 title: "Descripción del curso"
 ---
 
-Aquí irá la descripción del curso (objetivos, metodología, evaluación, bibliografía).
+## Descripción del Curso
+
+La Epidemiología constituye el marco conceptual y metodológico fundamental para comprender los procesos de salud y enfermedad en poblaciones, así como para sustentar la toma de decisiones clínicas y sanitarias basadas en evidencia.
+
+Este curso está orientado a estudiantes de IV año de Medicina y busca integrar los principios clásicos de la epidemiología con su aplicación práctica en el ejercicio clínico, la gestión sanitaria y la salud pública. Se abordarán los conceptos fundamentales de frecuencia y asociación, el análisis crítico de estudios epidemiológicos, el diseño de investigaciones y la interpretación de evidencia científica.
+
+El enfoque del curso combina fundamentos teóricos con talleres prácticos orientados al análisis de datos, la interpretación de literatura biomédica y la evaluación de intervenciones en salud.
+
+Se espera que el estudiante desarrolle competencias para:
+
+- Comprender y aplicar medidas de ocurrencia y asociación.
+- Interpretar estudios observacionales y experimentales.
+- Analizar críticamente la evidencia científica.
+- Utilizar herramientas básicas de análisis epidemiológico.
+- Integrar la epidemiología en la toma de decisiones clínicas y de salud pública.
+
+La evaluación del curso considera quizzes preclase optativos, sesiones expositivas, talleres aplicados y evaluaciones formales de selección múltiple.
+
+Que sea un estupendo curso!

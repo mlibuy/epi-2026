@@ -2,4 +2,36 @@
 title: "Ejercicios por una décima"
 ---
 
-Aquí subirás ejercicios cortos (0.1) con pauta o instrucciones de entrega.
+## Regla general de disponibilidad
+
+Los quizzes se habilitan **el día anterior a la clase desde las 06:00** y permanecen disponibles **hasta las 23:59** (00:00) del mismo día anterior.
+
+> Ejemplo: si la clase es el **martes**, el quiz estará disponible desde **lunes 06:00** hasta **lunes 23:59**.
+
+---
+
+## Quiz activo
+
+### Quiz 1 — Semana 1
+📅 Clase: **10-03-2026**  
+🕒 Disponible: **09-03-2026 06:00 → 09-03-2026 23:59**  
+💯 Puntaje: **0.1**  
+📍 Plataforma: **Google Classroom**
+
+**Contenidos evaluados**
+- Concepto de epidemiología
+- Campo de acción de la disciplina
+- Historia y usos de la epidemiología
+- Aplicación en clínica y salud pública
+
+[**Ingresar al Quiz 1 en Google Classroom**](https://classroom.google.com/c/ODQ1NzY4NzEzNDU1/a/ODQ1NzY3NzkxMzU3/details){.btn .btn-danger}
+
+---
+
+## Historial de quizzes
+
+| Semana | Quiz | Clase | Disponible (día anterior) | Link |
+|---:|---|---|---|---|
+| 1 | Quiz 1 | 10-03-2026 | 09-03-2026 06:00–23:59 | [Abrir](https://classroom.google.com/c/ODQ1NzY4NzEzNDU1/a/ODQ1NzY3NzkxMzU3/details) |
+
+
