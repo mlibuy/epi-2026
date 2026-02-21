@@ -2,5 +2,13 @@
 title: "Clases"
 ---
 
-- Clase 1: (pendiente)
-- Clase 2: (pendiente)
+## Semana 1 — 10-03-2026  
+**Tema:** Bases de la epidemiología
+
+### Diapositivas — Sesión 1
+
+<iframe src="https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/preview"
+width="100%" height="600px">
+</iframe>
+
+[Descargar en Drive](https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/view?usp=sharing)
