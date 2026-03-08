@@ -2,4 +2,4 @@
 title: "Apuntes"
 ---
 
-Aquí tendrás los resúmenes.
+Aquí tendrás resúmenes breves.

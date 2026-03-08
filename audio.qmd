@@ -1,5 +1,5 @@
 ---
-title: "Resúmenes de audio en 5 minutos"
+title: "Resúmenes de audio de 5 minutos"
 ---
 
 Aquí subiré audios breves por tema, no más de 5 minutos.

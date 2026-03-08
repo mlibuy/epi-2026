@@ -1,11 +1,142 @@
 ---
 title: "Clases"
 ---
-## Semana 1 — 10-03-2026  
-**Tema:** Bases de la epidemiología y diagnóstico de situación
 
-### Sesión 1 (08:30–09:40) — Descripción del curso
+## Semana 1 — 10-03-2026  
+
+### Sesión 1 y 2 (08:30–11:00)
+- Introducción de Curso, bases de la epidemiología, concepto y campo de la epidemiología, historia y usos de la epidemiología, triángulo epidemiológico, transición epidemiológica, determinantes sociales, medidas de tendencia central y presentación de datos en epidemiología.
+
 <iframe src="https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/preview"
 width="100%" height="600px"></iframe>
 
 - Ver/descargar: https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/view?usp=sharing
+
+### Bibliografía sugerida
+- Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulos 1–2.
+
+---
+
+## Semana 2 — 17-03-2026  
+
+### Sesión 3 y 4 (08:30–11:00)
+- Epidemiología descriptiva: persona, lugar y tiempo.  
+- Medidas de ocurrencia de la enfermedad: incidencia, prevalencia y mortalidad.  
+- Ajustes de tasas de mortalidad y tasa de letalidad.  
+- Evolución temporal de indicadores, vigilancia epidemiológica y análisis de brotes y epidemias.  
+- Cómo investigar un brote epidémico.
+
+### Bibliografía sugerida
+- Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulos 3, 5 y 10.
+
+---
+
+## Semana 3 — 24-03-2026  
+
+### Taller 1 (08:30–11:00)
+- Taller aplicado de medidas de ocurrencia de enfermedad.
+
+---
+
+## Semana 4 — 07-04-2026  
+
+### Solemne 1
+- Evaluación de selección múltiple.
+
+---
+
+## Semana 5 — 14-04-2026  
+
+### Sesión 5 y 6 (08:30–11:00)
+- Medidas de asociación e impacto.  
+- Error, sesgo y confusión en epidemiología.  
+- Concepto de causalidad.  
+- Historia natural de la enfermedad.  
+- Pruebas diagnósticas y screening.  
+- Sensibilidad y especificidad.  
+- Valores predictivos positivos y negativos y su aplicación clínica y poblacional.
+
+### Bibliografía sugerida
+- Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulos 6 y 9.
+
+---
+
+## Semana 6 — 21-04-2026  
+
+### Sesión 7 y 8 (08:30–11:00)
+- Likelihood ratios y razonamiento diagnóstico.  
+- Curvas ROC, puntos de corte e integración diagnóstica.
+
+### Bibliografía sugerida
+- Silva Fuente-Alba C, Molina Villagra M. Likelihood ratio (razón de verosimilitud): definición y aplicación en Radiología. *Rev Chil Radiol*. 2016;22(4):155-160.  
+- Florkowski CM. Sensitivity, specificity, receiver-operating characteristic (ROC) curves and likelihood ratios: communicating the performance of diagnostic tests. *Clin Biochem Rev*. 2008;29(Suppl 1):S83-7.
+
+---
+
+## Semana 7 — 28-04-2026  
+
+### Taller 2 (08:30–11:00)
+- Taller aplicado de cálculo e interpretación de pruebas diagnósticas.
+
+---
+
+## Semana 8 — 05-05-2026  
+
+### Sesión 9 y 10 (08:30–11:00)
+- Epidemiología analítica y estudios observacionales: estudios transversales, de casos y controles y de cohortes.  
+- Medidas de asociación e impacto.
+
+### Bibliografía sugerida
+- Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulo 7.  
+- Beichou J, Palta M. Rates, Risks, Measures of Association and Impact. In: Ahrens W, Pigeot I, editors. *Handbook of Epidemiology*. Springer; 2014.
+
+---
+
+## Semana 9 — 12-05-2026  
+
+### Solemne 2
+- Evaluación de selección múltiple.
+
+---
+
+## Semana 10 — 19-05-2026  
+
+### Sesión 11 y 12 (08:30–11:00)
+- Ensayos controlados aleatorizados y estudios cuasiexperimentales.  
+- Estudios ecológicos.  
+- Causalidad, sesgos e investigación epidemiológica.
+
+### Bibliografía sugerida
+- Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulo 7 (pp.145-147).
+
+---
+
+## Semana 11 — 26-05-2026  
+
+### Taller 3 (08:30–11:00)
+- Taller aplicado de identificación de tipos de estudio y cálculo de medidas de asociación e impacto.
+
+---
+
+## Semana 12 — 02-06-2026  
+
+### Solemne 3
+
+---
+
+## Semana 13 — 09-06-2026  
+
+### Solemnes y talleres recuperativos
+
+---
+
+## Semana 14 — 16-06-2026  
+
+### Examen final
+
+---
+
+## Semana 15 — 30-06-2026  
+
+### Examen segunda oportunidad
+
