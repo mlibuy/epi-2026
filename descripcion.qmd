@@ -2,7 +2,7 @@
 title: "Descripción del curso"
 ---
 
-## Descripción del Curso
+## De que se va a tratar el curso
 
 La Epidemiología constituye el marco conceptual y metodológico fundamental para comprender los procesos de salud y enfermedad en poblaciones, así como para sustentar la toma de decisiones clínicas y sanitarias basadas en evidencia.
 

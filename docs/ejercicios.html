@@ -157,7 +157,10 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="regla-general-de-disponibilidad" class="level2">
 <h2 class="anchored" data-anchor-id="regla-general-de-disponibilidad">Regla general de disponibilidad</h2>
-<p>Los quizzes se habilitan <strong>el mismo dia de la clase en un momento aleatorio</strong>. Se bonificará con 1 décima (0,1) a quienes tengan más del 60% de alternativas correctas. Podrá ser canjeado en la solemne con contenidos correspondientes.</p>
+<p>Durante el semestre se realizarán <strong>quizzes breves asociados a las clases</strong>.<br>
+Estos se habilitarán <strong>el mismo día de la clase en un momento aleatorio</strong> y estarán disponibles por un tiempo limitado.</p>
+<p>Los estudiantes que obtengan <strong>60% o más de respuestas correctas</strong> recibirán una <strong>bonificación de una décima (0,1)</strong>.<br>
+Esta bonificación podrá <strong>ser canjeada en la solemne correspondiente a los contenidos evaluados</strong>.</p>
 <hr>
 </section>
 <section id="quiz-activo" class="level2">
@@ -165,22 +168,47 @@ ul.task-list li input[type="checkbox"] {
 <section id="quiz-1-semana-1" class="level3">
 <h3 class="anchored" data-anchor-id="quiz-1-semana-1">Quiz 1 — Semana 1</h3>
 <p>📅 Clase: <strong>10-03-2026</strong><br>
-🕒 Disponible: <strong>10-03-2026</strong> 💯 Puntaje: <strong>0.1</strong><br>
+🕒 Disponible desde: <strong>10-03-2026, 10:00 horas</strong><br>
+💯 Bonificación: <strong>0.1</strong><br>
 📍 Plataforma: <strong>Google Classroom</strong></p>
-<p><strong>Contenidos evaluados</strong> - Presentación del curso y evaluaciones - Concepto y campo de la epidemiología - Historia de la epidemiología - Usos de la epidemiología - Presentación de datos en epidemiología</p>
+<p><strong>Contenidos evaluados</strong> - Presentación del curso y sistema de evaluaciones - Concepto y campo de la epidemiología - Historia de la epidemiología - Usos de la epidemiología - Presentación de datos en epidemiología</p>
+<div id="quiz1-no-disponible">
+<p><strong>Estado:</strong> 🔒 Este quiz se habilitará automáticamente a las <strong>10:00 horas del 10-03-2026</strong>.</p>
+</div>
+<div id="quiz1-disponible" style="display:none;">
+<p><strong>Estado:</strong> 🟢 Quiz disponible.</p>
 <p><a href="https://classroom.google.com/c/ODQ1NzY4NzEzNDU1/a/ODQ1NzY3NzkxMzU3/details" class="btn btn-danger"><strong>Ingresar al Quiz 1 en Google Classroom</strong></a></p>
+</div>
+<script>
+(function() {
+  const apertura = new Date("2026-03-10T10:00:00-03:00");
+  const ahora = new Date();
+
+  if (ahora >= apertura) {
+    document.getElementById("quiz1-no-disponible").style.display = "none";
+    document.getElementById("quiz1-disponible").style.display = "block";
+  }
+})();
+</script>
 <hr>
 </section>
 </section>
 <section id="historial-de-quizzes" class="level2">
 <h2 class="anchored" data-anchor-id="historial-de-quizzes">Historial de quizzes</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: right;">Semana</th>
 <th>Quiz</th>
 <th>Clase</th>
-<th>Disponible (mismo día)</th>
+<th>Disponibilidad</th>
 <th>Link</th>
 </tr>
 </thead>
@@ -189,8 +217,8 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: right;">1</td>
 <td>Quiz 1</td>
 <td>10-03-2026</td>
-<td><a href="https://classroom.google.com/c/ODQ1NzY4NzEzNDU1/a/ODQ1NzY3NzkxMzU3/details">Abrir</a></td>
-<td></td>
+<td>Desde 10:00 del mismo día</td>
+<td>Se habilita automáticamente</td>
 </tr>
 </tbody>
 </table>
