@@ -2,4 +2,9 @@
 title: "Apuntes"
 ---
 
-Aquí tendrás resúmenes breves.
+### Resumen Sesión 1 y 2
+
+<iframe src="https://docs.google.com/document/d/1TrFKcuQGPyXVTpkf5Vg1OLsyIENiHbt8XWcvtzgXJZI/preview"
+width="100%" height="600px"></iframe>
+
+[**Abrir resumen en Google Docs**](https://docs.google.com/document/d/1TrFKcuQGPyXVTpkf5Vg1OLsyIENiHbt8XWcvtzgXJZI/edit?usp=sharing){.btn .btn-primary}

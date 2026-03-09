@@ -4,13 +4,14 @@ title: "Clases"
 
 ## Semana 1 — 10-03-2026  
 
-### Sesión 1 y 2 (08:30–11:00)
+### Sesión 1 y 2 (09:30–11:00)
+
 - Introducción de Curso, bases de la epidemiología, concepto y campo de la epidemiología, historia y usos de la epidemiología, triángulo epidemiológico, transición epidemiológica, determinantes sociales, medidas de tendencia central y presentación de datos en epidemiología.
 
-<iframe src="https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/preview"
-width="100%" height="600px"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1_Qn2WLfxxgPyI2TiMs6FHJLASDdk2WzX/embed?start=false&loop=false&delayms=3000"
+width="100%" height="700px" frameborder="0" allowfullscreen="true"></iframe>
 
-- Ver/descargar: https://drive.google.com/file/d/1ZeoUQPF-mnVLHyLmysVfZbYQzdxG-ece/view?usp=sharing
+[**Abrir presentación en Google Slides**](https://docs.google.com/presentation/d/1_Qn2WLfxxgPyI2TiMs6FHJLASDdk2WzX/edit?usp=sharing){.btn .btn-primary}
 
 ### Bibliografía sugerida
 - Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulos 1–2.
