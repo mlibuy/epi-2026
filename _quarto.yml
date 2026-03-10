@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Epidemiología Finis Terrae 2026"
+  google-analytics: "G-XXXXXXXXXX"
+
   navbar:
     left:
       - text: "Descripción del curso"
