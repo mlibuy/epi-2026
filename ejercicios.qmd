@@ -2,49 +2,40 @@
 title: "Ejercicios por una décima"
 ---
 
-## Regla general de disponibilidad
-
-Durante el semestre se realizarán **quizzes breves asociados a las clases**.  
-Estos se habilitarán **el mismo día de la clase en un momento aleatorio** y estarán disponibles por un tiempo limitado.
-
-Los estudiantes que obtengan **60% o más de respuestas correctas** recibirán una **bonificación de una décima (0,1)**.  
-Esta bonificación podrá **ser canjeada en la solemne correspondiente a los contenidos evaluados**.
-
----
-
 ## Quiz activo
 
-### Quiz 1 — Semana 1
-📅 Clase: **10-03-2026**  
-🕒 Disponible desde: **10-03-2026, 10:00 horas**  
+### Quiz 2 — Semana 2
+📅 Clase: **17-03-2026**  
+🕒 Disponible desde: **17-03-2026, 10:00 horas**  
 💯 Bonificación: **0.1**  
 📍 Plataforma: **Google Classroom**
 
 **Contenidos evaluados**
-- Presentación del curso y sistema de evaluaciones
-- Concepto y campo de la epidemiología
-- Historia de la epidemiología
-- Usos de la epidemiología
-- Presentación de datos en epidemiología
+- Epidemiología descriptiva: persona, lugar y tiempo
+- Medidas de ocurrencia de la enfermedad: incidencia, prevalencia y mortalidad
+- Ajuste de tasas de mortalidad
+- Tasa de letalidad
+- Vigilancia epidemiológica
+- Investigación de brotes epidémicos
 
-<div id="quiz1-no-disponible">
-**Estado:** 🔒 Este quiz se habilitará automáticamente a las **10:00 horas del 10-03-2026**.
+<div id="quiz2-no-disponible">
+**Estado:** 🔒 Este quiz se habilitará automáticamente a las **10:00 horas del 17-03-2026**.
 </div>
 
-<div id="quiz1-disponible" style="display:none;">
+<div id="quiz2-disponible" style="display:none;">
 **Estado:** 🟢 Quiz disponible.
 
-[**Ingresar al Quiz 1 en Google Classroom**](https://classroom.google.com/c/ODQ1NzY4NzEzNDU1/a/ODQ1NzY3NzkxMzU3/details){.btn .btn-danger}
+[**Ingresar al Quiz 2 en Google Classroom**](LINK_AQUI){.btn .btn-danger}
 </div>
 
 <script>
 (function() {
-  const apertura = new Date("2026-03-10T10:00:00-03:00");
+  const apertura = new Date("2026-03-17T10:00:00-03:00");
   const ahora = new Date();
 
   if (ahora >= apertura) {
-    document.getElementById("quiz1-no-disponible").style.display = "none";
-    document.getElementById("quiz1-disponible").style.display = "block";
+    document.getElementById("quiz2-no-disponible").style.display = "none";
+    document.getElementById("quiz2-disponible").style.display = "block";
   }
 })();
 </script>
@@ -55,4 +46,5 @@ Esta bonificación podrá **ser canjeada en la solemne correspondiente a los con
 
 | Semana | Quiz | Clase | Disponibilidad | Link |
 |---:|---|---|---|---|
-| 1 | Quiz 1 | 10-03-2026 | Desde 10:00 del mismo día | Se habilita automáticamente |
+| 1 | Quiz 1 | 10-03-2026 | Desde 10:00 del mismo día | Completado 72/77 |
+| 2 | Quiz 2 | 17-03-2026 | Desde 10:00 del mismo día | Link por publicar |

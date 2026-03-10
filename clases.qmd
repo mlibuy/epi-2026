@@ -20,12 +20,17 @@ width="100%" height="700px" frameborder="0" allowfullscreen="true"></iframe>
 
 ## Semana 2 — 17-03-2026  
 
-### Sesión 3 y 4 (08:30–11:00)
 - Epidemiología descriptiva: persona, lugar y tiempo.  
 - Medidas de ocurrencia de la enfermedad: incidencia, prevalencia y mortalidad.  
-- Ajustes de tasas de mortalidad y tasa de letalidad.  
-- Evolución temporal de indicadores, vigilancia epidemiológica y análisis de brotes y epidemias.  
+- Ajuste de tasas de mortalidad y tasa de letalidad.  
+- Evolución temporal de indicadores y vigilancia epidemiológica.  
+- Análisis de brotes y epidemias.  
 - Cómo investigar un brote epidémico.
+
+<iframe src="https://docs.google.com/presentation/d/1BQG3tbBfh4o7CeV_vkturVHK5K4jvtWgZ6orQkO4t1E/embed?start=false&loop=false&delayms=3000"
+width="100%" height="700px" frameborder="0" allowfullscreen="true"></iframe>
+
+[**Abrir presentación en Google Slides**](https://docs.google.com/presentation/d/1BQG3tbBfh4o7CeV_vkturVHK5K4jvtWgZ6orQkO4t1E/edit?slide=id.p3#slide=id.p3){.btn .btn-primary}
 
 ### Bibliografía sugerida
 - Friis RH. *Epidemiology 101*. 3rd ed. Jones & Bartlett Learning; 2025. Capítulos 3, 5 y 10.

@@ -8,3 +8,11 @@ title: "Apuntes"
 width="100%" height="600px"></iframe>
 
 [**Abrir resumen en Google Docs**](https://docs.google.com/document/d/1TrFKcuQGPyXVTpkf5Vg1OLsyIENiHbt8XWcvtzgXJZI/edit?usp=sharing){.btn .btn-primary}
+
+
+### Resumen Sesión 3 y 4
+
+<iframe src="https://docs.google.com/document/d/1BILQYAVKknQ3Br1aWrMwoNTnBu2qg16Eb8IKcQZ9u58/preview"
+width="100%" height="600px"></iframe>
+
+[**Abrir resumen en Google Docs**](https://docs.google.com/document/d/1BILQYAVKknQ3Br1aWrMwoNTnBu2qg16Eb8IKcQZ9u58/edit?usp=sharing){.btn .btn-primary}
