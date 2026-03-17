@@ -2,49 +2,40 @@
 title: "Ejercicios por una décima"
 ---
 
-## Quiz activo
+## 🟢 Quiz activo
 
-### Quiz 2 — Semana 2
-📅 Clase: **17-03-2026**  
-🕒 Disponible desde: **17-03-2026, 10:00 horas**  
-💯 Bonificación: **0.1**  
-📍 Plataforma: **Google Classroom**
-
-**Contenidos evaluados**
-- Epidemiología descriptiva: persona, lugar y tiempo
-- Medidas de ocurrencia de la enfermedad: incidencia, prevalencia y mortalidad
-- Ajuste de tasas de mortalidad
-- Tasa de letalidad
-- Vigilancia epidemiológica
-- Investigación de brotes epidémicos
-
-<div id="quiz2-no-disponible">
-**Estado:** 🔒 Este quiz se habilitará automáticamente a las **10:00 horas del 17-03-2026**.
-</div>
-
-<div id="quiz2-disponible" style="display:none;">
-**Estado:** 🟢 Quiz disponible.
-
-[**Ingresar al Quiz 2 en Google Classroom**](LINK_AQUI){.btn .btn-danger}
-</div>
-
-<script>
-(function() {
-  const apertura = new Date("2026-03-17T10:00:00-03:00");
-  const ahora = new Date();
-
-  if (ahora >= apertura) {
-    document.getElementById("quiz2-no-disponible").style.display = "none";
-    document.getElementById("quiz2-disponible").style.display = "block";
-  }
-})();
-</script>
+::: {.callout-note}
+Actualmente **no hay quizzes activos**.
+:::
 
 ---
 
-## Historial de quizzes
+## 📚 Historial de quizzes
 
-| Semana | Quiz | Clase | Disponibilidad | Link |
-|---:|---|---|---|---|
-| 1 | Quiz 1 | 10-03-2026 | Desde 10:00 del mismo día | Completado 72/77 |
-| 2 | Quiz 2 | 17-03-2026 | Desde 10:00 del mismo día | Link por publicar |
+::: {.callout-important}
+### 🟦 Quiz 1 — Semana 1
+
+📅 **Clase:** 10-03-2026  
+🕒 **Disponibilidad:** desde las 10:00  
+✅ **Participación:** 72 / 77 estudiantes  - Completado
+
+<div class="d-flex gap-2 mt-2">
+<a href="https://drive.google.com/file/d/1kWHCXYvIi8C_MvxKv0BI-lozuiJ_8cv1/view?usp=share_link" class="btn btn-outline-primary">📄 Control 1</a>
+<a href="https://docs.google.com/document/d/1QkzUtwuJhSXPQrR9Dk5m4iE2vtO7sPTABZ7NEosS7V8/edit?usp=share_link" class="btn btn-outline-secondary">🧾 Rúbrica 1</a>
+</div>
+:::
+
+---
+
+::: {.callout-important}
+### 🟦 Quiz 2 — Semana 2
+
+📅 **Clase:** 17-03-2026  
+🕒 **Disponibilidad:** desde las 10:00  
+✅ **Participación:** 74 / 77 estudiantes - Compleatado
+
+<div class="d-flex gap-2 mt-2">
+<a href="https://drive.google.com/file/d/1fIDxkLqJKVSegD_NmY16p8p2kMhdrrH2/view?usp=share_link" class="btn btn-outline-primary">📄 Control 2</a>
+<a href="https://docs.google.com/document/d/1YyUoKBmuYwXvH9keyEBNpnxmWY7nFucZ8TqzLNczC2w/edit?usp=share_link" class="btn btn-outline-secondary">🧾 Rúbrica 2</a>
+</div>
+:::
