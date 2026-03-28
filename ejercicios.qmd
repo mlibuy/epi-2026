@@ -39,3 +39,13 @@ Actualmente **no hay quizzes activos**.
 <a href="https://docs.google.com/document/d/1YyUoKBmuYwXvH9keyEBNpnxmWY7nFucZ8TqzLNczC2w/edit?usp=share_link" class="btn btn-outline-secondary">🧾 Rúbrica 2</a>
 </div>
 :::
+
+---
+
+::: {.callout-important}
+### 🟦 Quiz 3 — Semana 3
+
+📅 **Clase:** 31-03-2026  
+🕒 **Disponibilidad:** desde las 10:00  
+
+:::
