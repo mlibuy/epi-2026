@@ -17,7 +17,7 @@ Actualmente **no hay quizzes activos**.
 
 📅 **Clase:** 10-03-2026  
 🕒 **Disponibilidad:** desde las 10:00  
-✅ **Participación:** 72 / 77 estudiantes  - Completado
+✅ **Participación:** 72 / 77 estudiantes — Completado
 
 <div class="d-flex gap-2 mt-2">
 <a href="https://drive.google.com/file/d/1kWHCXYvIi8C_MvxKv0BI-lozuiJ_8cv1/view?usp=share_link" class="btn btn-outline-primary">📄 Control 1</a>
@@ -32,7 +32,7 @@ Actualmente **no hay quizzes activos**.
 
 📅 **Clase:** 17-03-2026  
 🕒 **Disponibilidad:** desde las 10:00  
-✅ **Participación:** 74 / 77 estudiantes - Compleatado
+✅ **Participación:** 74 / 77 estudiantes — Completado
 
 <div class="d-flex gap-2 mt-2">
 <a href="https://drive.google.com/file/d/1fIDxkLqJKVSegD_NmY16p8p2kMhdrrH2/view?usp=share_link" class="btn btn-outline-primary">📄 Control 2</a>
@@ -47,5 +47,10 @@ Actualmente **no hay quizzes activos**.
 
 📅 **Clase:** 31-03-2026  
 🕒 **Disponibilidad:** desde las 10:00  
+✅ **Participación:** 77 / 77 estudiantes — Completado
 
+<div class="d-flex gap-2 mt-2">
+<a href="https://drive.google.com/file/d/1D3Oh4X5k0iCh919R9q96CqTS8m8Bz5jw/view?usp=drive_link" class="btn btn-outline-primary">📄 Control 3</a>
+<a href="https://docs.google.com/document/d/1YCMSlFCdJsmzpUvL8sALAICRlgUVQxt529To57MF8AE/edit?usp=drive_link" class="btn btn-outline-secondary">🧾 Rúbrica 3</a>
+</div>
 :::
