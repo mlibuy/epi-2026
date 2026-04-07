@@ -2,6 +2,18 @@
 title: "Ejercicios por una décima"
 ---
 
+::: {.callout-tip}
+## 📊 Resumen de Bonificaciones al 07-04-2026
+
+Se encuentra disponible el resumen actualizado de bonificaciones al **7 de abril de 2026**.
+
+Si detectas algún error o inconsistencia, por favor escribir a [mlibuyr@uft.edu](mailto:mlibuyr@uft.edu).
+
+[**Abrir resumen de bonificaciones**](https://drive.google.com/file/d/1eOW0j9VF4i62xtrEY_ZKSNwvFuIcSePb/view?usp=drive_link){.btn .btn-success}
+:::
+
+---
+
 ## 🟢 Quiz activo
 
 ::: {.callout-note}
