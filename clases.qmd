@@ -125,15 +125,25 @@ title: "Clases"
 
 ### Pruebas diagnósticas (II)
 
-**🕒 Clase 7 (08:30–09:40)**\
+**🕒 Clase 7 (08:30–09:40)**  
 - Likelihood ratios
 
-**🕒 Clase 8 (09:50–11:00)**\
-- Curvas ROC\
+**🕒 Clase 8 (09:50–11:00)**  
+- Curvas ROC  
 - Puntos de corte
 
-**📚 Bibliografía**\
-- Silva C. *Rev Chil Radiol* (2016)\
+### 📂 Clase en PDF
+
+<iframe 
+src="https://drive.google.com/file/d/1P06XjXmHGCPhCzTBHN-4xjNyBuKouKvD/preview" 
+width="100%" 
+height="600">
+</iframe>
+
+[**Abrir presentación en Google Drive**](https://drive.google.com/file/d/1P06XjXmHGCPhCzTBHN-4xjNyBuKouKvD/view?usp=drive_link){.btn .btn-primary}
+
+**📚 Bibliografía**  
+- Silva C. *Rev Chil Radiol* (2016)  
 - Florkowski CM. *Clin Biochem Rev* (2008)
 
 ------------------------------------------------------------------------
