@@ -259,13 +259,11 @@ height="650">
 
 ### Tipos de estudio (II)
 
-**🕒 Clase 11 (08:30–09:40)**  
+**🕒 Clase 11 (08:30–10:00)**  
 - Ensayos clínicos  
 - Cuasiexperimentales  
 - Ecológicos
 
-**🕒 Clase 12 (09:50–11:00)**  
-- Sesgos y causalidad
 
 ---
 
