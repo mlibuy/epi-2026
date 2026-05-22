@@ -254,7 +254,6 @@ height="650">
 ### Pausa académica
 
 ------------------------------------------------------------------------
-
 ## 🟨 Semana 12 — 26-05-2026
 
 ### Tipos de estudio (II)
@@ -262,8 +261,17 @@ height="650">
 **🕒 Clase 11 (08:30–10:00)**  
 - Ensayos clínicos  
 - Cuasiexperimentales  
-- Ecológicos
+- Ecológicos  
 
+### 📂 Clase en PDF
+
+<iframe 
+src="https://drive.google.com/file/d/1-gejSGQiV5q0y-BHwFOHIWvEPi1XE05s/preview" 
+width="100%" 
+height="600">
+</iframe>
+
+[**Abrir presentación en Google Drive**](https://drive.google.com/file/d/1-gejSGQiV5q0y-BHwFOHIWvEPi1XE05s/view?usp=drive_link){.btn .btn-primary}
 
 ---
 
