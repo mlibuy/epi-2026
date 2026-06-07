@@ -266,12 +266,12 @@ height="650">
 ### 📂 Clase en PDF
 
 <iframe 
-src="https://drive.google.com/file/d/1-gejSGQiV5q0y-BHwFOHIWvEPi1XE05s/preview" 
+src="https://drive.google.com/file/d/1iZcX1n55jqBE2gnwGTAghNM-61a6QGrX/preview" 
 width="100%" 
 height="600">
 </iframe>
 
-[**Abrir presentación en Google Drive**](https://drive.google.com/file/d/1-gejSGQiV5q0y-BHwFOHIWvEPi1XE05s/view?usp=drive_link){.btn .btn-primary}
+[**Abrir presentación en Google Drive**](https://drive.google.com/file/d/1iZcX1n55jqBE2gnwGTAghNM-61a6QGrX/view?usp=drive_link){.btn .btn-primary}
 
 ---
 
